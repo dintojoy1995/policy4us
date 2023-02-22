@@ -1,6 +1,5 @@
 import React from "react";
 import CounterPageImage from "./CounterPageImage";
-import Notification from "./Notification";
 import "./CounterPage.css";
 
 function CounterPage(props) {
